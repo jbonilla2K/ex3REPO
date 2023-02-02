@@ -1,0 +1,20 @@
+{
+  "name": "ex3repo",
+  "version": "1.0.0",
+  "description": " ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbonilla2K/ex3REPO.git"
+  },
+  "keywords": [],
+  "author": "Julian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbonilla2K/ex3REPO/issues"
+  },
+  "homepage": "https://github.com/jbonilla2K/ex3REPO#readme"
+}
